@@ -3,6 +3,7 @@ node_modules/
 
 # Build output
 dist/
+# Note: docs/ is NOT ignored — it contains the built site for GitHub Pages
 
 # Editor directories and files
 .vscode/*
